@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete project proposal",
+    "description": "Finish the Q4 marketing campaign proposal for client review",
+    "categoryId": 1,
+    "priority": "high",
+    "dueDate": "2024-01-15T09:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-10T08:30:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Review team performance reports",
+    "description": "Go through monthly performance reports and prepare feedback",
+    "categoryId": 1,
+    "priority": "medium",
+    "dueDate": "2024-01-16T14:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-10T10:15:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Doctor appointment",
+    "description": "Annual check-up with Dr. Smith",
+    "categoryId": 2,
+    "priority": "medium",
+    "dueDate": "2024-01-17T11:30:00Z",
+    "completed": false,
+    "createdAt": "2024-01-09T16:20:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 4,
+    "title": "Grocery shopping",
+    "description": "Buy ingredients for weekend dinner party",
+    "categoryId": 2,
+    "priority": "low",
+    "dueDate": "2024-01-14T18:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-10T12:00:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Update portfolio website",
+    "description": "Add recent projects and update skills section",
+    "categoryId": 3,
+    "priority": "low",
+    "dueDate": "2024-01-20T20:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-08T14:45:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 6,
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails and prepare equipment checklist",
+    "categoryId": 4,
+    "priority": "low",
+    "dueDate": "2024-01-19T10:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-09T19:30:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 7,
+    "title": "Team meeting preparation",
+    "description": "Prepare agenda and slides for Monday team standup",
+    "categoryId": 1,
+    "priority": "high",
+    "dueDate": "2024-01-14T08:00:00Z",
+    "completed": true,
+    "createdAt": "2024-01-08T09:15:00Z",
+    "completedAt": "2024-01-13T16:45:00Z"
+  }
+]
